@@ -12,7 +12,6 @@ Supports: desktop version (up to 1200px),
 For this project I have used the following technologies:
 * HTML
 * CSS3
-* SCSS
 * JS
 * jquery
 * BEM methodology
